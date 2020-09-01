@@ -1,2 +1,2 @@
 # com.talktotalk
-### A Social Medai Application built with Springboot, React.js and Postgres SQL. 
+### A Restful Social Media Application built with Springboot, React.js and Postgres SQL.
